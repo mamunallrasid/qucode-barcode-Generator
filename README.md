@@ -52,6 +52,3 @@ This project is a simple web application for generating QR codes and barcodes fo
 
 Contributions are welcome! If you'd like to contribute to this project, please follow the usual GitHub fork and pull request workflow.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
